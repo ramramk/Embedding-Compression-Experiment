@@ -1,0 +1,7 @@
+chromadb
+matplotlib
+numpy
+pandas
+scikit-learn
+sentence-transformers
+tabulate
